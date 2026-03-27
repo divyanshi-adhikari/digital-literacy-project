@@ -1,4 +1,4 @@
-# Cybercrime Case Study: The “Refund Trap” UPI Scam
+# Cybercrime Case Study: The UPI/Online Payment Fraud
 
 UPI (Unified Payments Interface) fraud is a common cybercrime in India where attackers 
 trick users into authorizing fraudulent transactions. This type of fraud has increased 
