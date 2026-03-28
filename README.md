@@ -32,7 +32,7 @@ Researched a cybercrime scenario (UPI/online fraud), created a case study, and d
 
 ---
 
-##  Useful Links / Platforms Used
+##  Profiles & Project Links
 - GitHub: https://github.com/divyanshi-adhikari/digital-literacy-project  
 - LinkedIn: https://www.linkedin.com/in/divyanshi-adhikari-73933b381/
 - Kaggle: https://www.kaggle.com/divyanshiadhikari
